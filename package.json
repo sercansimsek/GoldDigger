@@ -1,0 +1,21 @@
+{
+  "name": "golddigger",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "node.js practice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sercansimsek/GoldDigger.git"
+  },
+  "author": "Sercan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sercansimsek/GoldDigger/issues"
+  },
+  "homepage": "https://github.com/sercansimsek/GoldDigger#readme"
+}
